@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void resetButtonPressed() {
-        setInfo("Start Again");
+        setInfo("Let's start");
         initializeBoard();
         enableAllButtons(true);
 
