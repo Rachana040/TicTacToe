@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         enableAllButtons(true);
 
         Toast.makeText(MainActivity.this,
-                "Play Again",
+                "Play Again1",
                 Toast.LENGTH_SHORT).show();
 
 
